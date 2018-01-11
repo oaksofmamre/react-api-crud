@@ -2,8 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.css";
 import "./index.css";
-import UserList from "./Component/UserList";
+import App from "./Component/App";
 import registerServiceWorker from "./registerServiceWorker";
 
-ReactDOM.render(<UserList />, document.getElementById("user-list"));
+ReactDOM.render(<App />, document.getElementById("app"));
 registerServiceWorker();

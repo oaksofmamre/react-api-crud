@@ -1,9 +1,8 @@
 import React, { Component } from "react";
-import logo from "../logo.svg";
-import "../App.css";
+//import logo from "../logo.svg";
 import UserCard from "./UserCard";
 
-class UserList extends React.Component {
+class UserList extends Component {
   constructor() {
     super();
 
