@@ -1,2 +1,13 @@
 # react-api-crud
-Continuing to work with React, and build out more crud operations on an API
+
+Continuing to work with React, to build out more crud (create, read, update, destroy) operations against reqres.in's API
+
+## Usage
+
+From command-line:
+
+```
+npm start
+```
+
+:coffee:
